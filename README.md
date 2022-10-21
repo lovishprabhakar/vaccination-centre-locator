@@ -1,5 +1,5 @@
-# Vaccination center locator
-A python project that allows users to find nearby vaccination centers.
+# Vaccination centre locator
+A python project that allows users to find nearby vaccination centres.
 
 The users can search the nearby vaccination centres via 4 options:
 
